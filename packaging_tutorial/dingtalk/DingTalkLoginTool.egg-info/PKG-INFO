@@ -1,8 +1,8 @@
 Metadata-Version: 2.1
 Name: DingTalkLoginTool
-Version: 0.0.2
-Summary: DingTalkLoginTool
-Home-page: https://github.com/zhangjian-ai/meiduo/tree/master/meiduo_mall/meiduo_mall/utils
+Version: 0.0.3
+Summary: A convenient tool for dingtalk login
+Home-page: https://github.com/zhangjian-ai/pypi/blob/master/packaging_tutorial/dingtalk/DingTalkLoginTool/dingtalk.py
 Author: jian.zhang
 Author-email: zj19180525254@163.com
 License: UNKNOWN
