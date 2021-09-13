@@ -1,12 +1,4 @@
-## DingTalkLoginTool
+**overload**
 
-### 钉钉扫码登陆第三方网站工具类
-
-
-使用前：
-
-    - 在钉钉开发者平台获取到appid, app_key, app_secret, redirect_uri 关键参数
-    
-    - 工具类封装四个方法，文档内部注释了每个方法的作用，最终获取到扫码用户的用户详情
-
-    - 该工具类可继续扩展，获取更多扫码用户所在企业的信息
+- 实现Python中的函数重载，导入该装饰器即可
+- Implement the function overload in Python and import the decorator

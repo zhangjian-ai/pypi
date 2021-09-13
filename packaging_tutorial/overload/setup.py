@@ -4,14 +4,14 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="DingTalkLoginTool",
-    version="0.0.3",
+    name="overload",
+    version="v 1.0",
     author="jian.zhang",
     author_email="zj19180525254@163.com",
-    description="A convenient tool for dingtalk login",
+    description="Implement the function overload in Python by the decorator",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/zhangjian-ai/pypi/blob/master/packaging_tutorial/dingtalk/DingTalkLoginTool/dingtalk.py",
+    url="https://github.com/zhangjian-ai/pypi/blob/master/packaging_tutorial/overload/overload/overload.py",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
