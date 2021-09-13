@@ -4,8 +4,8 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="overload",
-    version="v 1.0",
+    name="overloads",
+    version="1.0",
     author="jian.zhang",
     author_email="zj19180525254@163.com",
     description="Implement the function overload in Python by the decorator",

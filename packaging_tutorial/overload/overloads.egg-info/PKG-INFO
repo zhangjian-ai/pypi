@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: overloads
+Version: 1.0
+Summary: Implement the function overload in Python by the decorator
+Home-page: https://github.com/zhangjian-ai/pypi/blob/master/packaging_tutorial/overload/overload/overload.py
+Author: jian.zhang
+Author-email: zj19180525254@163.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+**overload**
+
+- 实现Python中的函数重载，导入该装饰器即可
+- Implement the function overload in Python and import the decorator
+
+
