@@ -1,7 +1,7 @@
 Metadata-Version: 2.1
 Name: DingTalkLoginTool
-Version: 0.0.3
-Summary: A convenient tool for dingtalk login
+Version: 0.0.4
+Summary: A convenient tool for dingtalk login by scan
 Home-page: https://github.com/zhangjian-ai/pypi/blob/master/packaging_tutorial/dingtalk/DingTalkLoginTool/dingtalk.py
 Author: jian.zhang
 Author-email: zj19180525254@163.com

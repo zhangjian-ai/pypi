@@ -39,7 +39,7 @@ class Function:
         return str([self.fn.__module__, self.fn.__class__, self.fn.__name__, args_count, args_type])
 
 
-def overload(fn):
+def overloads(fn):
     @wraps(fn)  # 该装饰器是为了让被装饰之后的函数还具有装饰之前的部分属性，如__name__,__doc__等
     def wrapper():
         return Function(fn)

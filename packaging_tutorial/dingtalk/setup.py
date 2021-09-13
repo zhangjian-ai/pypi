@@ -5,10 +5,10 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="DingTalkLoginTool",
-    version="0.0.3",
+    version="0.0.4",
     author="jian.zhang",
     author_email="zj19180525254@163.com",
-    description="A convenient tool for dingtalk login",
+    description="A convenient tool for dingtalk login by scan",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/zhangjian-ai/pypi/blob/master/packaging_tutorial/dingtalk/DingTalkLoginTool/dingtalk.py",

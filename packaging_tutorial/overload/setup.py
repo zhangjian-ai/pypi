@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="overloads",
-    version="1.1",
+    version="1.3",
     author="jian.zhang",
     author_email="zj19180525254@163.com",
     description="Implement the function overload in Python by the decorator named @overloads",
