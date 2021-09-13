@@ -1,4 +1,3 @@
-from functools import wraps
 from inspect import getfullargspec
 
 
@@ -40,8 +39,6 @@ class Function:
 
 
 def overloads(fn):
-    @wraps(fn)  # 该装饰器是为了让被装饰之后的函数还具有装饰之前的部分属性，如__name__,__doc__等
     def wrapper():
         return Function(fn)
-
     return wrapper()
