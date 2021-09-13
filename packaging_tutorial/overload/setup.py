@@ -5,10 +5,10 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="overloads",
-    version="1.0",
+    version="1.1",
     author="jian.zhang",
     author_email="zj19180525254@163.com",
-    description="Implement the function overload in Python by the decorator",
+    description="Implement the function overload in Python by the decorator named @overloads",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/zhangjian-ai/pypi/blob/master/packaging_tutorial/overload/overload/overload.py",

@@ -1,7 +1,7 @@
 Metadata-Version: 2.1
 Name: overloads
-Version: 1.0
-Summary: Implement the function overload in Python by the decorator
+Version: 1.1
+Summary: Implement the function overload in Python by the decorator named @overloads
 Home-page: https://github.com/zhangjian-ai/pypi/blob/master/packaging_tutorial/overload/overload/overload.py
 Author: jian.zhang
 Author-email: zj19180525254@163.com
